@@ -1,2 +1,5 @@
-# Globomantics-Games-Q3-2025
-Repo de travail pour le Lab1 de la Cohorte DevOps Q3 2025
+# Globomantics-Games
+This repository contains source code of Globomantics open source game.
+
+
+![cover.PNG](assets/cover.PNG)
