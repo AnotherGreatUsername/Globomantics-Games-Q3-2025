@@ -1,12 +1,12 @@
 name: Linter C#
 
 on:
-  push:
-    branches:
-      - feature/*
-    pull_request:
+  pull_request:
       branches:
+        - main
+        - recette
         - develop
+        - feature/*
 
 jobs:
   run-linters:
