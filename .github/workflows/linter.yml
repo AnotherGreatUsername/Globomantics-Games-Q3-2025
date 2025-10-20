@@ -1,8 +1,9 @@
 name: Linter C#
 
 on:
-  pull_request:
-      branches: [ main ]
+  push:
+    types:
+      - opened
 
 jobs:
   run-linters:
