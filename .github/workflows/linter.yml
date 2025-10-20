@@ -2,11 +2,7 @@ name: Linter C#
 
 on:
   pull_request:
-      branches:
-        - main
-        - recette
-        - develop
-        - feature/*
+      branches: [ main ]
 
 jobs:
   run-linters:
